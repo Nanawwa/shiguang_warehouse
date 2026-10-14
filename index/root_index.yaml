@@ -1272,3 +1272,8 @@ schools:
     name: "浙江万里学院"
     initial: "Z"
     resource_folder: "ZWU"
+
+  - id: "HEBEU"
+    name: "河北工程大学"
+    initial: "H"
+    resource_folder: "HEBEU"
